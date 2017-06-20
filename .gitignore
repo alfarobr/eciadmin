@@ -1,0 +1,5 @@
+/vendor/*
+!/vendor/phpexcel/
+/config/app.php
+/tmp/*
+/logs/*

@@ -1,0 +1,24 @@
+[06-Feb-2017 07:18:33 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:18:40 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:19:42 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:19:46 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:20:39 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:23:03 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:24:24 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:24:24 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:25:17 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:25:18 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:19 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:29 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:30 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:32 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:33 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:33 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:36 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 07:26:54 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[06-Feb-2017 08:22:36 America/Denver] PHP Fatal error:  Class 'DateTimeImmutable' not found in /home3/ucvradio/public_html/apps/eci-verano-2017/vendor/cakephp/chronos/src/Chronos.php on line 50
+[07-Feb-2017 17:09:21 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home3/ucvradio/public_html/apps/eci-verano-2017/src/Template/Participants/confirmar_registro.ctp on line 8
+[07-Feb-2017 20:49:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home3/ucvradio/public_html/apps/eci-verano-2017/src/Template/Admin/Participants/edit.ctp on line 95
+[07-Feb-2017 20:59:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/ucvradio/public_html/apps/eci-verano-2017/src/Template/Admin/Participants/index.ctp on line 50
+[07-Feb-2017 20:59:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/ucvradio/public_html/apps/eci-verano-2017/src/Template/Admin/Participants/index.ctp on line 50
+[22-Feb-2017 14:32:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home3/ucvradio/public_html/apps/eci-verano-2017/src/Template/Participants/add.ctp on line 84
