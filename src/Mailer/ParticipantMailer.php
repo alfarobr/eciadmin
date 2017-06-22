@@ -24,6 +24,6 @@ class ParticipantMailer extends Mailer
         ->template('ecimail_template')
         ->layout('participant')
         ->viewVars(['grade' => $participant->grade, 'first_name' => $participant->first_name, 'last_name' => $participant->last_name])
-        ->subject(sprintf('!' . $participant->first_name . ', gracias por registrarte en el IX ECI - Invierno 2017!'));
+        ->subject(sprintf('¡' . $participant->first_name . ', gracias por registrarte en el IX ECI - Invierno 2017!'));
     }
 }
