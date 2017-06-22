@@ -156,15 +156,9 @@ $description = 'Investigación y Educación para el Desarrollo Sostenible';
                             <small>
 							
 								<address>
-									<strong class="text-uppercase">Dra. Mercedes López García Vicerrectora VIC UCV</strong><br>
-									<small><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></small> 947896082, 965748742 <br>
-									<small><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span></small> (044) 485000 Anexos 7012, 7058, 7075 <br>
-									<a href="mailto:#">mlopezg@ucv.edu.pe</a>
-								</address>
-								<address>
-									<strong class="text-uppercase">Dirección de Investigación</strong><br>
-									<small><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></small> 958673823, #861545 <br>
-									<a href="mailto:#">ecinorte@ucv.edu.pe</a>
+									<strong class="text-uppercase">Vicerrectorado de Investigación</strong><br>
+									<small><span class="glyphicon glyphicon-phone" aria-hidden="true"></span></small> (044) 485000 Anexos 7075, 7293 <br>
+                                    <a href="mailto:#">ecinorte@ucv.edu.pe</a>
 								</address>
 								
                             </small>
